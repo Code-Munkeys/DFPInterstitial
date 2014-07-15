@@ -15,4 +15,4 @@
 
 // This is a sample interstitial ad unit. You should define your own ad unit
 // under your own network when developing your applications.
-#define kSampleAdUnitID @"ca-app-pub-pub-8639345455140449/8873601416";
+#define kSampleAdUnitID @"ca-app-pub-8639345455140449/8873601416";
